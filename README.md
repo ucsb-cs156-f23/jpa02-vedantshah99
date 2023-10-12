@@ -1,17 +1,6 @@
 # jpa02-vedantshah99
 
-* TODO: Correct the links to repo below, 
-  then delete this TODO.  Replace it with 
-  a link to your repo, e.g. 
-  https://github.com/ucsb-cs156-f23/jpa02-cgaucho
-
 Repo: https://github.com/ucsb-cs156-f23/jpa02-vedantshah99
-
-* TODO: Correct the "deployed at" link to app on Dokku
-  then delete this TODO.  Replace it with 
-  a link to your running app on Dokku, e.g.
-  https://jpa02-cgaucho.dokku-14.cs.ucsb.edu
-
 
 Deployed at: http://jpa02-vedantshah99.dokku-06.cs.ucsb.edu/
 
